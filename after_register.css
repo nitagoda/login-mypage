@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 20px;
+}
+
+main {
+  border: 1px solid lightgray;
+  text-align: center;
+  margin: 0 auto;
+  height: 360px;
+  width: 80%;
+  border-radius: 3px;
+  box-shadow: 2px 2px 2px gray;
+}
+
+main p {
+  margin-top: 70px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 180px;
+  border-top: 1px solid lightgray;
+}

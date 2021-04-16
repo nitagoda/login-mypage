@@ -1,0 +1,77 @@
+header {
+  text-align: center;
+  height: 80px;
+}
+
+header img {
+  height: 80px;
+}
+
+.login {
+  position: absolute;
+  right: 30px;
+  top: 80px;
+}
+
+main {
+  height: 550px;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+form {
+  height: 500px;
+  width: 80%;
+  border: 2px solid lightgray;
+  border-radius: 3px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.contetns-wrapper {
+  width: 65%;
+  margin: 90px auto;
+}
+
+.mail-wrapper p {
+  margin: 0;
+}
+
+.pass-wrapper p {
+  margin: 0;
+}
+
+input[type="text"] {
+  width: 400px;
+  margin-bottom: 35px;
+}
+
+input[type="password"] {
+  width: 400px;
+  margin-bottom: 35px;
+}
+
+input[type="checkbox"] {
+  margin-bottom: 35px;
+}
+
+.button-wrapper {
+  text-align: center;
+}
+
+input[type="submit"] {
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+  text-align: center;
+  width: 180px;
+  height: 35px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 8px;
+  color: gray;
+}

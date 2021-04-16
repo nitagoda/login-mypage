@@ -1,0 +1,93 @@
+header {
+  text-align: center;
+  height: 80px;
+}
+
+header img {
+  height: 80px;
+}
+
+.login {
+  position: absolute;
+  right: 30px;
+  top: 80px;
+}
+
+main {
+  height: 550px;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+.contents-wrapper {
+  height: 500px;
+  width: 80%;
+  border: 2px solid lightgray;
+  border-radius: 3px;
+  margin: 0 auto;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.text {
+  text-align: center;
+  border-bottom: 1px solid green;
+  width: 95%;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-bottom: 5px;
+}
+
+.text2 {
+  margin: 20px;
+  text-align: center;
+}
+
+.info-wrapper {
+  display: flex;
+  margin-left: 60px;
+  margin-top: 35px;
+  margin-bottom: 45px;
+}
+
+.info-wrapper img {
+  height: 200px;
+}
+
+.item-wrapper {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.item-wrapper p {
+  margin-bottom: 30px;
+}
+
+input[type="textarea"] {
+  margin-top: -30px;
+  width: 500px;
+  height: 45px;
+}
+
+.button-wrapper {
+  text-align: center;
+}
+
+.button-wrapper input {
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px grey;
+  height: 35px;
+  width: 250px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 8px;
+  color: gray;
+}
